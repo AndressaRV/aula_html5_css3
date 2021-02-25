@@ -1,0 +1,34 @@
+body {
+    background: rgb(107, 179, 155);
+    margin-left: 200px;
+}
+
+header {
+    margin-top: 100px;
+}
+
+h1 {
+    color: purple;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.contato {
+    margin-bottom: 1px;
+}
+
